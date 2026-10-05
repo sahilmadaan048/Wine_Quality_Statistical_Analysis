@@ -1,0 +1,5 @@
+,Linear Regression,Random Forest
+MAE,0.5118,0.4931
+MSE,0.4417,0.415
+RMSE,0.6645,0.644
+R²,0.3465,0.3853
